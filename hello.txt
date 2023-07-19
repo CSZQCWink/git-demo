@@ -10,9 +10,9 @@ hello csz !!! hello git!!!
 hello csz !!! hello git!!!
 hello csz !!! hello git!!!    update by cloneTest
 hello csz !!! hello git!!!
-hello csz !!! hello git!!!    ssh sshsshssh
-hello csz !!! hello git!!!
-hello csz !!! hello git!!!
+hello csz !!! hello git!!!    pull ssh sshsshssh
+hello csz !!! hello git!!!     
+hello csz !!! hello git!!!    push ssh ssh ssh ssh
 hello csz !!! hello git!!!
 hello csz !!! hello git!!!
 hello csz !!! hello git!!!
